@@ -21,6 +21,10 @@
   },
   "homepage": "https://github.com/mileskingston/webpack-playground#readme",
   "devDependencies": {
-    "webpack": "^3.3.0"
+    "css-loader": "^0.28.4",
+    "ts-loader": "^2.3.0",
+    "uglifyjs-webpack-plugin": "^0.4.6",
+    "webpack": "^3.3.0",
+    "webpack-dev-server": "^2.5.1"
   }
 }
