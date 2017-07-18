@@ -1,0 +1,26 @@
+{
+  "name": "webpack-example",
+  "version": "1.0.0",
+  "description": "webpack playground",
+  "main": "index.js",
+  "scripts": {
+    "test": "testing"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mileskingston/webpack-playground.git"
+  },
+  "keywords": [
+    "webpack",
+    "config"
+  ],
+  "author": "mileskingston",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mileskingston/webpack-playground/issues"
+  },
+  "homepage": "https://github.com/mileskingston/webpack-playground#readme",
+  "devDependencies": {
+    "webpack": "^3.3.0"
+  }
+}
